@@ -12,9 +12,9 @@ Kalkulator BMI (Body Mass Index) adalah proyek sederhana yang dibangun dengan me
 
 1. Clone repositori ini:
 
-   \`\`\`shell
-   git clone https://github.com/LaluBRamadhan/BMI_Calculator.git
-   \`\`\`
+   ```sh
+      git clone https://github.com/LaluBRamadhan/BMI_Calculator.git
+   ```
 
 2. Buka proyek dengan Android Studio atau editor Kotlin favorit Anda.
 
@@ -38,9 +38,9 @@ Kontribusi adalah apa yang membuat komunitas open source menjadi tempat yang lua
 
 2. Buat branch fitur baru:
 
-   \`\`\`shell
+   ```sh
    git checkout -b fitur/NamaFitur
-   \`\`\`
+   ```
 
 3. Lakukan perubahan yang diperlukan dan lakukan commit:
 
@@ -50,9 +50,9 @@ Kontribusi adalah apa yang membuat komunitas open source menjadi tempat yang lua
 
 4. Push ke branch Anda:
 
-   \`\`\`shell
+   ```sh
    git push origin fitur/NamaFitur
-   \`\`\`
+   ```
 
 5. Buat Pull Request ke branch master pada repositori ini.
 
