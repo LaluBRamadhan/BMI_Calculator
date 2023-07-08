@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/nama_pengguna/nama_repositori.svg)](https://github.com/nama_pengguna/nama_repositori/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/nama_pengguna/nama_repositori.svg)](https://github.com/nama_pengguna/nama_repositori/stargazers)
 [![Build Status](https://travis-ci.com/nama_pengguna/nama_repositori.svg?branch=master)](https://travis-ci.com/nama_pengguna/nama_repositori)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 Kalkulator BMI (Body Mass Index) adalah proyek sederhana yang dibangun dengan menggunakan bahasa pemrograman Kotlin. Proyek ini bertujuan untuk menghitung indeks massa tubuh berdasarkan tinggi dan berat badan pengguna.
 
 ## Fitur
