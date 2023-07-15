@@ -56,9 +56,7 @@ Kontribusi adalah apa yang membuat komunitas open source menjadi tempat yang lua
 
 5. Buat Pull Request ke branch master pada repositori ini.
 
-## Lisensi
+## Terimakasih
 
-Proyek ini dilisensikan di bawah [MIT License](https://github.com/nama_pengguna/nama_repositori/blob/master/LICENSE).
-EOL
 
 
