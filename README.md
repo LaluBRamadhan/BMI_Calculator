@@ -44,9 +44,9 @@ Kontribusi adalah apa yang membuat komunitas open source menjadi tempat yang lua
 
 3. Lakukan perubahan yang diperlukan dan lakukan commit:
 
-   \`\`\`shell
+   ```sh
    git commit -am 'Menambahkan fitur baru'
-   \`\`\`
+   ```
 
 4. Push ke branch Anda:
 
